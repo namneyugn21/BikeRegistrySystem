@@ -1,0 +1,2 @@
+You have been tasked with writing a bicycle parking registry for SFU.<br>
+The registry stores all bikes that are currently registered to SFU parking. Bikes come in all shapes and sizes, and is distinguished by their unique bike ID in the system. Each registered bike also contains an owner, a wheel size in inches, a brake type (rim, disc, or drum), a type (mountain, road, touring, commuter, cruiser, folding, etc), and the serial number.
